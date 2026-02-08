@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# OS Generated
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Environment
+.env
