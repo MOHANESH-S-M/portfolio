@@ -332,7 +332,8 @@ footer {
 
 .cert-img-container {
     width: 100%;
-    height: 220px;
+    height: 160px;
+    /* Reduced height as requested */
     background: #f0f0f0;
     /* Light background for better contrast with certs */
     border-radius: 8px;
